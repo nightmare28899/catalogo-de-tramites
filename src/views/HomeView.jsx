@@ -67,7 +67,7 @@ const HomeView = () => {
                     }}
                 >
                     <Title level={1} className="home-hero-title">
-                        Ventanilla Digital de Michoacán
+                        Catálogo de trámites
                     </Title>
                     <InputSearch screens={screens} />
                 </Flex>

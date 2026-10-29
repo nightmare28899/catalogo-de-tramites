@@ -59,7 +59,7 @@ export const useHeader = () => {
         demoUsers,
         switchUser,
         token: user ? "demo-token" : null,
-        title: "Ventanilla Digital de Michoacán",
+        title: "Catálogo de trámites",
         getInitials,
         items,
         navItemStyle,
